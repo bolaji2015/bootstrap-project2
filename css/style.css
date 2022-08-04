@@ -8,3 +8,18 @@ h6{
     color: rgb(194, 32, 32);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#enquiry{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#footer-container{
+    background-color: rgb(105, 103, 103);
+}
+#footer-container .col-sm-4 a{
+    color: white
+}
+.col-sm-6 a{
+    color: blue;
+}
+.col-sm-6{
+    padding: 30px;
+}
