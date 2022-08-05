@@ -12,14 +12,20 @@ h6{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #footer-container{
-    background-color: rgb(105, 103, 103);
+    background-color: black;
+    color:rgb(105, 103, 103);
 }
-#footer-container .col-sm-4 a{
-    color: white
+#footer-container a{
+    color:rgb(105, 103, 103);
 }
 .col-sm-6 a{
     color: blue;
 }
 .col-sm-6{
     padding: 30px;
+}
+marquee{
+    color: red;
+    background-color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
